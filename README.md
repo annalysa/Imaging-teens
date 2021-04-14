@@ -1,1 +1,3 @@
 # Imaging-teens
+This project will begin as the code I am developing for MRI resting state imaging and hippocampal subfield segmentation. 
+Later, more ...
